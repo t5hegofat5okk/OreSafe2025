@@ -1,0 +1,101 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://LeaKPH47eqrwreE:n7eD7zeBTspvjyM@localhost:45915/storage/emulated/0/OreSafe-index.html
+Subject: =?utf-8?Q?OreSafe=20=E2=80=94=20Mining=20Safety=20for=20Underground=20Wor?=
+ =?utf-8?Q?kers?=
+Date: Sat, 21 Jun 2025 12:48:12 +0200
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--n7taOv6taHbbI9uWEzxxTLfEZ3RoIDPQLTul83yXmC----"
+
+
+------MultipartBoundary--n7taOv6taHbbI9uWEzxxTLfEZ3RoIDPQLTul83yXmC----
+Content-Type: text/html
+Content-ID: <frame-FB132EF76C21E641C793679F1C5C6DB4@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://LeaKPH47eqrwreE:n7eD7zeBTspvjyM@localhost:45915/storage/emulated/0/OreSafe-index.html
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-4709b46c-312c-4e35-b571-79f804465e62@mhtml.blink" />
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>OreSafe — Mining Safety for Underground Workers</title>
+  
+</head>
+<body>
+  <header>
+    <h1>OreSafe</h1>
+    <p>Dedicated to keeping underground miners safe every day.</p>
+  </header>
+
+  <button class="emergency-button">EMERGENCY</button>
+
+  <div class="status" role="region" aria-live="polite" aria-atomic="true">
+    <strong>Status:</strong> All systems are functioning normally.
+  </div>
+
+  <section id="about" aria-label="About OreSafe">
+    <h2>About OreSafe</h2>
+    <p>
+      OreSafe is built to support and protect miners working beneath the surface. We know how challenging underground work can be, and we strive to create a safer environment through reliable technology and real-time safety checks.
+    </p>
+    <p style="font-style: italic; margin-top: 1rem; font-weight: 600;">
+      Every miner’s safety matters deeply to us.
+    </p>
+    <p style="margin-top: 1.5rem; font-weight: 500; color: #ccc; font-size: 0.9rem;">
+      Crafted with care by Kekana and Granddaughter © 2025
+    </p>
+  </section>
+
+  <section class="safety-check" aria-label="Personal safety checklist">
+    <h2>My Safety Checklist</h2>
+    <p>Please confirm the following before heading underground:</p>
+    <ul>
+      <li><input type="checkbox" id="helmet"><label for="helmet">Helmet is securely worn</label></li>
+      <li><input type="checkbox" id="vest"><label for="vest">Reflective safety vest on</label></li>
+      <li><input type="checkbox" id="boots"><label for="boots">Steel-toe boots checked</label></li>
+      <li><input type="checkbox" id="gloves"><label for="gloves">Gloves are on</label></li>
+      <li><input type="checkbox" id="goggles"><label for="goggles">Safety goggles in place</label></li>
+      <li><input type="checkbox" id="gas"><label for="gas">Gas detector working</label></li>
+      <li><input type="checkbox" id="comms"><label for="comms">Communication device ready</label></li>
+      <li><input type="checkbox" id="buddy"><label for="buddy">Buddy system confirmed</label></li>
+      <li><input type="checkbox" id="emergency"><label for="emergency">Emergency button is accessible</label></li>
+      <li><input type="checkbox" id="mental"><label for="mental">Mental check-in: I am alert and focused</label></li>
+    </ul>
+  </section>
+
+  <footer>
+    OreSafe — Committed to Miner Safety
+  </footer>
+
+  
+
+ 
+</body></html>
+------MultipartBoundary--n7taOv6taHbbI9uWEzxxTLfEZ3RoIDPQLTul83yXmC----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-4709b46c-312c-4e35-b571-79f804465e62@mhtml.blink
+
+@charset "utf-8";
+
+body { font-family: Arial, sans-serif; background-color: rgb(18, 18, 18); color: rgb(245, 245, 245); margin: 0px; padding: 0px; text-align: center; }
+
+header { background-color: rgb(255, 204, 0); color: rgb(0, 0, 0); padding: 2rem 1rem; }
+
+.emergency-button { margin: 2rem auto; padding: 1rem 2.5rem; font-size: 1.3rem; background-color: rgb(211, 47, 47); border: none; border-radius: 8px; color: white; cursor: pointer; display: inline-block; transition: background-color 0.3s; }
+
+.emergency-button:hover { background-color: rgb(183, 28, 28); }
+
+.status { background-color: rgb(30, 30, 30); border-radius: 10px; margin: 2rem auto; padding: 1rem; max-width: 600px; font-size: 1.1rem; }
+
+section#about {
+  background-color: rgb(30, 30, 30); color: rgb(245, 245, 245); max-width: 700px; margin: 2rem auto; padding: 2rem; border-radius: 10px; text-align: left; line-height: 1.5;
+  & section#about h2 { text-align: center; margin-bottom: 1rem; }
+  & .safety-check { max-width: 700px; margin: 2rem auto 4rem; padding: 0px 1rem; text-align: left; }
+  & .safety-check h2 { text-align: center; margin-bottom: 1rem; }
+  & .safety-check ul { list-style: none; padding: 0px; }
+  & .safety-check li { margin: 0.5rem 0px; }
+  & .safety-check label { cursor: pointer; user-select: none; }
+  & footer { font-size: 0.85rem; color: rgb(153, 153, 153); padding: 1rem 0px; border-top: 1px solid rgb(51, 51, 51); max-width: 700px; margin: 0px auto 2rem; text-align: center; }
+}
+------MultipartBoundary--n7taOv6taHbbI9uWEzxxTLfEZ3RoIDPQLTul83yXmC------
