@@ -26,7 +26,7 @@ Hi, I’m **Tshegofatso Kekana**,
 
 ## 🔗 Live Demo
 *(Coming soon — GitHub Pages or Netlify)*  
-Stay tuned for the live version of OreSafe!
+Stay tuned for the live version of OreSafe!localhost:13746/storage/emulated/0/OreSafe-index.html
 
 ## 🤝 Contributions
 Got feedback or ideas? I’m open to collaboration. Fork this repo or get in touch!
